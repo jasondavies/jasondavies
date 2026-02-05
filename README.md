@@ -1,5 +1,6 @@
 Currently working on [Tenstorrent][tenstorrent] bounties, focused on low-level performance optimisation.
 
+- [In-Place 32×32 Matrix Transpose on Tenstorrent](https://www.jasondavies.com/2026/tenstorrent-transpose/)
 - [32-bit Integer Max/Min on Tenstorrent](https://www.jasondavies.com/2026/tenstorrent-max-min-int32/)
 - [16-bit Integer Multiplication on Tenstorrent](https://www.jasondavies.com/2026/tenstorrent-multiply-int16/)
 - [Typecast on Tenstorrent](https://www.jasondavies.com/2025/tenstorrent-typecast/)
