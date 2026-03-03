@@ -1,4 +1,4 @@
-Currently working on [Tenstorrent][tenstorrent] bounties, focused on low-level performance optimisation.
+Recently:
 
 - [Accurate sin/cos/tan on Tenstorrent](https://www.jasondavies.com/2026/tenstorrent-sin-cos-tan/)
 - [Cube Root on Tenstorrent](https://www.jasondavies.com/2026/tenstorrent-cbrt/)
@@ -10,5 +10,3 @@ Currently working on [Tenstorrent][tenstorrent] bounties, focused on low-level p
 - [32-bit Integer Division on Tenstorrent](https://www.jasondavies.com/2025/tenstorrent-divide-int32/)
 - [32-bit Integer Multiplication on Tenstorrent](https://www.jasondavies.com/2025/tenstorrent-multiply-int32/)
 - [Optimal "where" on Tenstorrent](https://www.jasondavies.com/2025/tenstorrent-where/)
-
-[tenstorrent]: https://tenstorrent.com/
