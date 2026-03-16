@@ -1,5 +1,6 @@
 Recently:
 
+- [Floating Point Binary GCD](https://www.jasondavies.com/2026/floating-point-binary-gcd/)
 - [Greatest Common Divisor on Tenstorrent](https://www.jasondavies.com/2026/tenstorrent-gcd/)
 - [Reciprocal on Tenstorrent Wormhole](https://www.jasondavies.com/2026/tenstorrent-wormhole-reciprocal/)
 - [Accurate sin/cos/tan on Tenstorrent](https://www.jasondavies.com/2026/tenstorrent-sin-cos-tan/)
